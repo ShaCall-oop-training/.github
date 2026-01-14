@@ -1,5 +1,3 @@
-# ООП y27
-
 ## Information
 - [Do/Don'ts](do-donts.md)
 
